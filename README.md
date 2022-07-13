@@ -1,2 +1,1 @@
-# alx-zero_day
-ALX Git Task 2
+My first readme
